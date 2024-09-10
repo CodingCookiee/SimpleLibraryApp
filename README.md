@@ -4,7 +4,7 @@
 
 
 
-## [🔗LiveDemo](https://codepanda-crypto.github.io/OdinProject/Library/)
+## [🔗LiveDemo](https://codingcookiee.github.io/SimpleLibraryApp/)
 
 
 
